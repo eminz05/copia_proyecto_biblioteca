@@ -1,4 +1,4 @@
-#Biblioteca Vecinal "Lectura para Todos"
+Biblioteca Vecinal "Lectura para Todos"
 
 Este proyecto es un sistema para una biblioteca comunitaria donde se pueden gestionar libros y préstamos a socios utilizando Python. Todos los datos ingresados para libros y socios se cargan de manera automática en archivos CSV. 
 
